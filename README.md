@@ -2,7 +2,9 @@
 
 #### Task 1
 A non-negative integer array A of N integers is given. 
-
+  ```
+  A = [2, -4, 6, -3, 9]
+  ```
 You will notice that the answer to this task is -2 and not 1 as indicated in codility
 because the absolute sum of the slice 2 + (-4) is -2 and not 2 as shown in the example 
 Since -2 is smaller than 1 so its the minimum absolute sum of a given slice combination. 

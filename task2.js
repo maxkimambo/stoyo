@@ -25,7 +25,7 @@ function solution(input) {
             if (Q) {
                 if (isIncreasing(Q, arr[i])) {          
                     R = arr[i];
-                    console.log('Got a triplet ', P, Q, R);
+                    console.log('Identified a triplet ', P, Q, R);
                     // calculate depth once the triplet has been identified. 
                     const pitDepth = depth(P, Q, R);
                     maxDepth = Math.max(maxDepth, pitDepth);

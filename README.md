@@ -63,30 +63,29 @@ Elements of input arrays can be modified.
 #### Solution output
 
 ```
-Identified a triplet  0 -2 0
-Identified a triplet  0 -2 1
-Identified a triplet  0 -2 0
-Identified a triplet  0 -2 2
-Identified a triplet  0 -2 3
-Identified a triplet  1 -2 0
-Identified a triplet  1 -2 1
-Identified a triplet  1 -2 0
-Identified a triplet  1 -2 2
-Identified a triplet  1 -2 3
-Identified a triplet  3 -2 0
-Identified a triplet  3 -2 1
-Identified a triplet  3 -2 0
-Identified a triplet  3 -2 2
-Identified a triplet  3 -2 3
-Identified a triplet  -2 -3 2
-Identified a triplet  -2 -3 3
-Identified a triplet  0 -3 2
-Identified a triplet  0 -3 3
-Identified a triplet  1 -3 2
-Identified a triplet  1 -3 3
-Identified a triplet  0 -3 2
-Identified a triplet  0 -3 3
-
+Identified a triplet  0 -2 0 Depth:  2
+Identified a triplet  0 -2 1 Depth:  2
+Identified a triplet  0 -2 0 Depth:  2
+Identified a triplet  0 -2 2 Depth:  2
+Identified a triplet  0 -2 3 Depth:  2
+Identified a triplet  1 -2 0 Depth:  2
+Identified a triplet  1 -2 1 Depth:  3
+Identified a triplet  1 -2 0 Depth:  2
+Identified a triplet  1 -2 2 Depth:  3
+Identified a triplet  1 -2 3 Depth:  3
+Identified a triplet  3 -2 0 Depth:  2
+Identified a triplet  3 -2 1 Depth:  3
+Identified a triplet  3 -2 0 Depth:  2
+Identified a triplet  3 -2 2 Depth:  4
+Identified a triplet  3 -2 3 Depth:  5
+Identified a triplet  -2 -3 2 Depth:  1
+Identified a triplet  -2 -3 3 Depth:  1
+Identified a triplet  0 -3 2 Depth:  3
+Identified a triplet  0 -3 3 Depth:  3
+Identified a triplet  1 -3 2 Depth:  4
+Identified a triplet  1 -3 3 Depth:  4
+Identified a triplet  0 -3 2 Depth:  3
+Identified a triplet  0 -3 3 Depth:  3
 Maximum pit depth found to be :  5
 ``` 
 
